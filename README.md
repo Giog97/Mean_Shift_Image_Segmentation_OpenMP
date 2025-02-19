@@ -50,7 +50,7 @@ Images will be saved in:
 ## 📄 **Report**
 A copy of the report (in Italian) can be found [here📄](./report/Parallel_Computing_First_Course_Project_Giovanni_Stefanini.pdf).
 
-A copy of the presentation can be found [here📄](./report/Parallel_Computing_Second_Course_Project_Giovanni_Stefanini.pdf). //TODO
+A copy of the presentation can be found [here📄](./report/Presentation_Project_1_PC_Giovanni_Stefanini.pdf).
 
 ---  
 

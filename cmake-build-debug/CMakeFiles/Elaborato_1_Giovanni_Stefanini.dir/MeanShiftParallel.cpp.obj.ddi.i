@@ -223853,8 +223853,6 @@ SoAData convertToSoA(const cv::Mat& image) {
 }
 
 
-
-
 void meanShift_parallel(const SoAData& data, SoAData& modes, float bandwidth, float epsilon) {
     modes.r.resize(data.r.size());
     modes.g.resize(data.g.size());
@@ -223927,12 +223925,11 @@ void meanShift_parallel(const SoAData& data, SoAData& modes, float bandwidth, fl
 }
 
 
-
 cv::Mat reconstructFromSoA(const SoAData& modes, int rows, int cols) {
     cv::Mat result = cv::Mat::zeros(rows, cols, 
-# 107 "C:/Users/giost/CLionProjects/Elaborato_1_Giovanni_Stefanini/MeanShiftParallel.cpp" 3 4
+# 104 "C:/Users/giost/CLionProjects/Elaborato_1_Giovanni_Stefanini/MeanShiftParallel.cpp" 3 4
                                                (((0) & ((1 << 3) - 1)) + (((3)-1) << 3))
-# 107 "C:/Users/giost/CLionProjects/Elaborato_1_Giovanni_Stefanini/MeanShiftParallel.cpp"
+# 104 "C:/Users/giost/CLionProjects/Elaborato_1_Giovanni_Stefanini/MeanShiftParallel.cpp"
                                                       );
 
     for (size_t i = 0; i < modes.r.size(); ++i) {

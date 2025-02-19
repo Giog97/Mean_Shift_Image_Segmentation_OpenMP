@@ -223512,18 +223512,26 @@ float squaredDistance(const cv::Vec<float, 3>& a, const cv::Vec<float, 3>& b);
 
 
 void meanShift_seq(const std::vector<cv::Vec3f>& data, std::vector<cv::Vec3f>& modes, float bandwidth, float epsilon) {
+
     modes = data;
+
+
     const float bandwidthSquared = bandwidth * bandwidth;
+
 
     for (size_t i = 0; i < modes.size(); ++i) {
         cv::Vec3f point = modes[i];
         cv::Vec3f shift;
+
         do {
             shift = cv::Vec3f(0, 0, 0);
             float totalWeight = 0.0f;
 
+
             for (const auto& otherPoint : data) {
                 float distSquared = squaredDistance(point, otherPoint);
+
+
                 if (distSquared < bandwidthSquared) {
                     float weight = exp(-distSquared / (2 * bandwidthSquared));
                     shift += weight * otherPoint;
@@ -223531,15 +223539,20 @@ void meanShift_seq(const std::vector<cv::Vec3f>& data, std::vector<cv::Vec3f>& m
                 }
             }
 
+
             if (totalWeight > 0) {
                 shift /= totalWeight;
             }
 
+
             float shiftDistance = std::sqrt(squaredDistance(point, shift));
             point = shift;
 
+
             if (shiftDistance < epsilon) break;
+
         } while (true);
+
 
         modes[i] = point;
     }

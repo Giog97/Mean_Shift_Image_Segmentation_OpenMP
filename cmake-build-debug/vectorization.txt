@@ -466,3 +466,141 @@ C:/Users/giost/CLionProjects/Elaborato_1_Giovanni_Stefanini/MeanShiftParallel.cp
 C:/Users/giost/CLionProjects/Elaborato_1_Giovanni_Stefanini/MeanShiftParallel.cpp:49:13: optimized: basic block part vectorized using 8 byte vectors
 C:/Users/giost/CLionProjects/Elaborato_1_Giovanni_Stefanini/MeanShiftParallel.cpp:49:13: optimized: basic block part vectorized using 16 byte vectors
 C:/Users/giost/CLionProjects/Elaborato_1_Giovanni_Stefanini/MeanShiftParallel.cpp:118:36: optimized: basic block part vectorized using 2 byte vectors
+C:/Users/giost/CLionProjects/Elaborato_1_Giovanni_Stefanini/Utils.cpp:11:23: optimized: loop vectorized using 8 byte vectors
+C:/msys64/mingw64/include/c++/14.2.0/bits/stl_uninitialized.h:119:19: optimized: loop vectorized using 32 byte vectors
+C:/msys64/mingw64/include/c++/14.2.0/bits/stl_uninitialized.h:119:19: optimized:  loop versioned for vectorization because of possible aliasing
+C:/msys64/mingw64/include/c++/14.2.0/bits/stl_uninitialized.h:119:19: optimized: loop vectorized using 16 byte vectors
+C:/msys64/mingw64/include/c++/14.2.0/bits/stl_uninitialized.h:119:19: optimized: loop vectorized using 32 byte vectors
+C:/msys64/mingw64/include/c++/14.2.0/bits/stl_uninitialized.h:119:19: optimized:  loop versioned for vectorization because of possible aliasing
+C:/msys64/mingw64/include/c++/14.2.0/bits/stl_uninitialized.h:119:19: optimized: loop vectorized using 16 byte vectors
+C:/Users/giost/CLionProjects/Elaborato_1_Giovanni_Stefanini/MeanShiftSeq.cpp:20:19: optimized: basic block part vectorized using 8 byte vectors
+C:/opencv-build/install/include/opencv2/core/matx.inl.hpp:962:18: optimized: basic block part vectorized using 8 byte vectors
+C:/opencv-build/install/include/opencv2/core/matx.inl.hpp:1024:14: optimized: basic block part vectorized using 8 byte vectors
+C:/msys64/mingw64/include/c++/14.2.0/bits/vector.tcc:96:27: optimized: basic block part vectorized using 16 byte vectors
+C:/msys64/mingw64/include/c++/14.2.0/bits/vector.tcc:96:27: optimized: basic block part vectorized using 16 byte vectors
+C:/msys64/mingw64/include/c++/14.2.0/bits/vector.tcc:96:27: optimized: basic block part vectorized using 16 byte vectors
+C:/msys64/mingw64/include/c++/14.2.0/bits/vector.tcc:692:30: optimized: basic block part vectorized using 16 byte vectors
+C:/msys64/mingw64/include/c++/14.2.0/bits/vector.tcc:692:30: optimized: basic block part vectorized using 16 byte vectors
+C:/msys64/mingw64/include/c++/14.2.0/bits/vector.tcc:692:30: optimized: basic block part vectorized using 16 byte vectors
+C:/msys64/mingw64/include/c++/14.2.0/bits/stl_uninitialized.h:119:19: optimized: loop vectorized using 32 byte vectors
+C:/msys64/mingw64/include/c++/14.2.0/bits/stl_uninitialized.h:119:19: optimized:  loop versioned for vectorization because of possible aliasing
+C:/msys64/mingw64/include/c++/14.2.0/bits/stl_uninitialized.h:119:19: optimized: loop vectorized using 16 byte vectors
+C:/msys64/mingw64/include/c++/14.2.0/bits/vector.tcc:908:31: optimized: basic block part vectorized using 16 byte vectors
+C:/msys64/mingw64/include/c++/14.2.0/bits/vector.tcc:908:31: optimized: basic block part vectorized using 16 byte vectors
+C:/msys64/mingw64/include/c++/14.2.0/bits/vector.tcc:908:31: optimized: basic block part vectorized using 16 byte vectors
+C:/Users/giost/CLionProjects/Elaborato_1_Giovanni_Stefanini/MeanShiftParallel.cpp:37:13: optimized: basic block part vectorized using 16 byte vectors
+C:/Users/giost/CLionProjects/Elaborato_1_Giovanni_Stefanini/MeanShiftParallel.cpp:47:13: optimized: basic block part vectorized using 8 byte vectors
+C:/Users/giost/CLionProjects/Elaborato_1_Giovanni_Stefanini/MeanShiftParallel.cpp:47:13: optimized: basic block part vectorized using 16 byte vectors
+C:/opencv-build/install/include/opencv2/core/matx.inl.hpp:281:48: optimized: basic block part vectorized using 8 byte vectors
+C:/opencv-build/install/include/opencv2/core/matx.inl.hpp:281:48: optimized: basic block part vectorized using 8 byte vectors
+C:/Users/giost/CLionProjects/Elaborato_1_Giovanni_Stefanini/MeanShiftSeq.cpp:59:18: optimized: basic block part vectorized using 16 byte vectors
+C:/Users/giost/CLionProjects/Elaborato_1_Giovanni_Stefanini/MeanShiftSeq.cpp:47:9: optimized: basic block part vectorized using 8 byte vectors
+C:/Users/giost/CLionProjects/Elaborato_1_Giovanni_Stefanini/MeanShiftSeq.cpp:71:36: optimized: basic block part vectorized using 2 byte vectors
+C:/Users/giost/CLionProjects/Elaborato_1_Giovanni_Stefanini/MeanShiftParallel.cpp:115:36: optimized: basic block part vectorized using 2 byte vectors
+C:/msys64/mingw64/include/c++/14.2.0/bits/shared_ptr_base.h:343:37: optimized: basic block part vectorized using 8 byte vectors
+C:/msys64/mingw64/include/c++/14.2.0/codecvt:169:3: optimized: basic block part vectorized using 8 byte vectors
+C:/msys64/mingw64/include/c++/14.2.0/codecvt:169:3: optimized: basic block part vectorized using 8 byte vectors
+C:/msys64/mingw64/include/c++/14.2.0/bits/shared_ptr_base.h:1533:9: optimized: basic block part vectorized using 16 byte vectors
+C:/opencv-build/install/include/opencv2/core/types.hpp:1697:7: optimized: basic block part vectorized using 8 byte vectors
+C:/opencv-build/install/include/opencv2/core/types.hpp:1693:7: optimized: basic block part vectorized using 8 byte vectors
+C:/opencv-build/install/include/opencv2/core/types.hpp:1693:7: optimized: basic block part vectorized using 8 byte vectors
+C:/opencv-build/install/include/opencv2/core/types.hpp:1693:7: optimized: basic block part vectorized using 8 byte vectors
+C:/msys64/mingw64/include/c++/14.2.0/bits/stl_vector.h:99:4: optimized: basic block part vectorized using 16 byte vectors
+C:/opencv-build/install/include/opencv2/core/types.hpp:1693:7: optimized: basic block part vectorized using 8 byte vectors
+C:/msys64/mingw64/include/c++/14.2.0/bits/stl_vector.h:99:4: optimized: basic block part vectorized using 16 byte vectors
+C:/opencv-build/install/include/opencv2/core/types.hpp:1693:7: optimized: basic block part vectorized using 8 byte vectors
+C:/msys64/mingw64/include/c++/14.2.0/bits/stl_vector.h:99:4: optimized: basic block part vectorized using 16 byte vectors
+C:/Users/giost/CLionProjects/Elaborato_1_Giovanni_Stefanini/main.cpp:162:1: optimized: basic block part vectorized using 16 byte vectors
+C:/Users/giost/CLionProjects/Elaborato_1_Giovanni_Stefanini/main.cpp:162:1: optimized: basic block part vectorized using 16 byte vectors
+C:/msys64/mingw64/include/c++/14.2.0/bits/stl_uninitialized.h:119:19: optimized: loop vectorized using 32 byte vectors
+C:/msys64/mingw64/include/c++/14.2.0/bits/stl_uninitialized.h:119:19: optimized:  loop versioned for vectorization because of possible aliasing
+C:/msys64/mingw64/include/c++/14.2.0/bits/stl_uninitialized.h:119:19: optimized: loop vectorized using 16 byte vectors
+C:/msys64/mingw64/include/c++/14.2.0/bits/stl_uninitialized.h:119:19: optimized: loop vectorized using 32 byte vectors
+C:/msys64/mingw64/include/c++/14.2.0/bits/stl_uninitialized.h:119:19: optimized:  loop versioned for vectorization because of possible aliasing
+C:/msys64/mingw64/include/c++/14.2.0/bits/stl_uninitialized.h:119:19: optimized: loop vectorized using 16 byte vectors
+C:/Users/giost/CLionProjects/Elaborato_1_Giovanni_Stefanini/MeanShiftSeq.cpp:25:19: optimized: basic block part vectorized using 8 byte vectors
+C:/opencv-build/install/include/opencv2/core/matx.inl.hpp:962:18: optimized: basic block part vectorized using 8 byte vectors
+C:/opencv-build/install/include/opencv2/core/matx.inl.hpp:1024:14: optimized: basic block part vectorized using 8 byte vectors
+C:/msys64/mingw64/include/c++/14.2.0/bits/stl_uninitialized.h:119:19: optimized: loop vectorized using 32 byte vectors
+C:/msys64/mingw64/include/c++/14.2.0/bits/stl_uninitialized.h:119:19: optimized:  loop versioned for vectorization because of possible aliasing
+C:/msys64/mingw64/include/c++/14.2.0/bits/stl_uninitialized.h:119:19: optimized: loop vectorized using 16 byte vectors
+C:/opencv-build/install/include/opencv2/core/matx.inl.hpp:281:48: optimized: basic block part vectorized using 8 byte vectors
+C:/opencv-build/install/include/opencv2/core/matx.inl.hpp:281:48: optimized: basic block part vectorized using 8 byte vectors
+C:/Users/giost/CLionProjects/Elaborato_1_Giovanni_Stefanini/MeanShiftSeq.cpp:72:18: optimized: basic block part vectorized using 16 byte vectors
+C:/Users/giost/CLionProjects/Elaborato_1_Giovanni_Stefanini/MeanShiftSeq.cpp:60:9: optimized: basic block part vectorized using 8 byte vectors
+C:/Users/giost/CLionProjects/Elaborato_1_Giovanni_Stefanini/MeanShiftSeq.cpp:84:36: optimized: basic block part vectorized using 2 byte vectors
+C:/msys64/mingw64/include/c++/14.2.0/bits/shared_ptr_base.h:343:37: optimized: basic block part vectorized using 8 byte vectors
+C:/msys64/mingw64/include/c++/14.2.0/codecvt:169:3: optimized: basic block part vectorized using 8 byte vectors
+C:/msys64/mingw64/include/c++/14.2.0/codecvt:169:3: optimized: basic block part vectorized using 8 byte vectors
+C:/msys64/mingw64/include/c++/14.2.0/bits/shared_ptr_base.h:1533:9: optimized: basic block part vectorized using 16 byte vectors
+C:/opencv-build/install/include/opencv2/core/types.hpp:1697:7: optimized: basic block part vectorized using 8 byte vectors
+C:/opencv-build/install/include/opencv2/core/types.hpp:1693:7: optimized: basic block part vectorized using 8 byte vectors
+C:/opencv-build/install/include/opencv2/core/types.hpp:1693:7: optimized: basic block part vectorized using 8 byte vectors
+C:/opencv-build/install/include/opencv2/core/types.hpp:1693:7: optimized: basic block part vectorized using 8 byte vectors
+C:/msys64/mingw64/include/c++/14.2.0/bits/stl_vector.h:99:4: optimized: basic block part vectorized using 16 byte vectors
+C:/opencv-build/install/include/opencv2/core/types.hpp:1693:7: optimized: basic block part vectorized using 8 byte vectors
+C:/msys64/mingw64/include/c++/14.2.0/bits/stl_vector.h:99:4: optimized: basic block part vectorized using 16 byte vectors
+C:/opencv-build/install/include/opencv2/core/types.hpp:1693:7: optimized: basic block part vectorized using 8 byte vectors
+C:/msys64/mingw64/include/c++/14.2.0/bits/stl_vector.h:99:4: optimized: basic block part vectorized using 16 byte vectors
+C:/Users/giost/CLionProjects/Elaborato_1_Giovanni_Stefanini/main.cpp:162:1: optimized: basic block part vectorized using 16 byte vectors
+C:/Users/giost/CLionProjects/Elaborato_1_Giovanni_Stefanini/main.cpp:162:1: optimized: basic block part vectorized using 16 byte vectors
+C:/msys64/mingw64/include/c++/14.2.0/bits/shared_ptr_base.h:343:37: optimized: basic block part vectorized using 8 byte vectors
+C:/msys64/mingw64/include/c++/14.2.0/codecvt:169:3: optimized: basic block part vectorized using 8 byte vectors
+C:/msys64/mingw64/include/c++/14.2.0/codecvt:169:3: optimized: basic block part vectorized using 8 byte vectors
+C:/msys64/mingw64/include/c++/14.2.0/bits/shared_ptr_base.h:1533:9: optimized: basic block part vectorized using 16 byte vectors
+C:/opencv-build/install/include/opencv2/core/types.hpp:1697:7: optimized: basic block part vectorized using 8 byte vectors
+C:/opencv-build/install/include/opencv2/core/types.hpp:1693:7: optimized: basic block part vectorized using 8 byte vectors
+C:/opencv-build/install/include/opencv2/core/types.hpp:1693:7: optimized: basic block part vectorized using 8 byte vectors
+C:/opencv-build/install/include/opencv2/core/types.hpp:1693:7: optimized: basic block part vectorized using 8 byte vectors
+C:/msys64/mingw64/include/c++/14.2.0/bits/stl_vector.h:99:4: optimized: basic block part vectorized using 16 byte vectors
+C:/opencv-build/install/include/opencv2/core/types.hpp:1693:7: optimized: basic block part vectorized using 8 byte vectors
+C:/msys64/mingw64/include/c++/14.2.0/bits/stl_vector.h:99:4: optimized: basic block part vectorized using 16 byte vectors
+C:/opencv-build/install/include/opencv2/core/types.hpp:1693:7: optimized: basic block part vectorized using 8 byte vectors
+C:/msys64/mingw64/include/c++/14.2.0/bits/stl_vector.h:99:4: optimized: basic block part vectorized using 16 byte vectors
+C:/Users/giost/CLionProjects/Elaborato_1_Giovanni_Stefanini/main.cpp:162:1: optimized: basic block part vectorized using 16 byte vectors
+C:/Users/giost/CLionProjects/Elaborato_1_Giovanni_Stefanini/main.cpp:162:1: optimized: basic block part vectorized using 16 byte vectors
+C:/msys64/mingw64/include/c++/14.2.0/bits/shared_ptr_base.h:343:37: optimized: basic block part vectorized using 8 byte vectors
+C:/msys64/mingw64/include/c++/14.2.0/codecvt:169:3: optimized: basic block part vectorized using 8 byte vectors
+C:/msys64/mingw64/include/c++/14.2.0/codecvt:169:3: optimized: basic block part vectorized using 8 byte vectors
+C:/msys64/mingw64/include/c++/14.2.0/bits/shared_ptr_base.h:1533:9: optimized: basic block part vectorized using 16 byte vectors
+C:/opencv-build/install/include/opencv2/core/types.hpp:1697:7: optimized: basic block part vectorized using 8 byte vectors
+C:/opencv-build/install/include/opencv2/core/types.hpp:1693:7: optimized: basic block part vectorized using 8 byte vectors
+C:/opencv-build/install/include/opencv2/core/types.hpp:1693:7: optimized: basic block part vectorized using 8 byte vectors
+C:/opencv-build/install/include/opencv2/core/types.hpp:1693:7: optimized: basic block part vectorized using 8 byte vectors
+C:/msys64/mingw64/include/c++/14.2.0/bits/stl_vector.h:99:4: optimized: basic block part vectorized using 16 byte vectors
+C:/opencv-build/install/include/opencv2/core/types.hpp:1693:7: optimized: basic block part vectorized using 8 byte vectors
+C:/msys64/mingw64/include/c++/14.2.0/bits/stl_vector.h:99:4: optimized: basic block part vectorized using 16 byte vectors
+C:/opencv-build/install/include/opencv2/core/types.hpp:1693:7: optimized: basic block part vectorized using 8 byte vectors
+C:/msys64/mingw64/include/c++/14.2.0/bits/stl_vector.h:99:4: optimized: basic block part vectorized using 16 byte vectors
+C:/Users/giost/CLionProjects/Elaborato_1_Giovanni_Stefanini/main.cpp:162:1: optimized: basic block part vectorized using 16 byte vectors
+C:/Users/giost/CLionProjects/Elaborato_1_Giovanni_Stefanini/main.cpp:162:1: optimized: basic block part vectorized using 16 byte vectors
+C:/msys64/mingw64/include/c++/14.2.0/bits/shared_ptr_base.h:343:37: optimized: basic block part vectorized using 8 byte vectors
+C:/msys64/mingw64/include/c++/14.2.0/codecvt:169:3: optimized: basic block part vectorized using 8 byte vectors
+C:/msys64/mingw64/include/c++/14.2.0/codecvt:169:3: optimized: basic block part vectorized using 8 byte vectors
+C:/msys64/mingw64/include/c++/14.2.0/bits/shared_ptr_base.h:1533:9: optimized: basic block part vectorized using 16 byte vectors
+C:/opencv-build/install/include/opencv2/core/types.hpp:1697:7: optimized: basic block part vectorized using 8 byte vectors
+C:/opencv-build/install/include/opencv2/core/types.hpp:1693:7: optimized: basic block part vectorized using 8 byte vectors
+C:/opencv-build/install/include/opencv2/core/types.hpp:1693:7: optimized: basic block part vectorized using 8 byte vectors
+C:/opencv-build/install/include/opencv2/core/types.hpp:1693:7: optimized: basic block part vectorized using 8 byte vectors
+C:/msys64/mingw64/include/c++/14.2.0/bits/stl_vector.h:99:4: optimized: basic block part vectorized using 16 byte vectors
+C:/opencv-build/install/include/opencv2/core/types.hpp:1693:7: optimized: basic block part vectorized using 8 byte vectors
+C:/msys64/mingw64/include/c++/14.2.0/bits/stl_vector.h:99:4: optimized: basic block part vectorized using 16 byte vectors
+C:/opencv-build/install/include/opencv2/core/types.hpp:1693:7: optimized: basic block part vectorized using 8 byte vectors
+C:/msys64/mingw64/include/c++/14.2.0/bits/stl_vector.h:99:4: optimized: basic block part vectorized using 16 byte vectors
+C:/Users/giost/CLionProjects/Elaborato_1_Giovanni_Stefanini/main.cpp:162:1: optimized: basic block part vectorized using 16 byte vectors
+C:/Users/giost/CLionProjects/Elaborato_1_Giovanni_Stefanini/main.cpp:162:1: optimized: basic block part vectorized using 16 byte vectors
+C:/msys64/mingw64/include/c++/14.2.0/bits/shared_ptr_base.h:343:37: optimized: basic block part vectorized using 8 byte vectors
+C:/msys64/mingw64/include/c++/14.2.0/codecvt:169:3: optimized: basic block part vectorized using 8 byte vectors
+C:/msys64/mingw64/include/c++/14.2.0/codecvt:169:3: optimized: basic block part vectorized using 8 byte vectors
+C:/msys64/mingw64/include/c++/14.2.0/bits/shared_ptr_base.h:1533:9: optimized: basic block part vectorized using 16 byte vectors
+C:/opencv-build/install/include/opencv2/core/types.hpp:1697:7: optimized: basic block part vectorized using 8 byte vectors
+C:/opencv-build/install/include/opencv2/core/types.hpp:1693:7: optimized: basic block part vectorized using 8 byte vectors
+C:/opencv-build/install/include/opencv2/core/types.hpp:1693:7: optimized: basic block part vectorized using 8 byte vectors
+C:/opencv-build/install/include/opencv2/core/types.hpp:1693:7: optimized: basic block part vectorized using 8 byte vectors
+C:/msys64/mingw64/include/c++/14.2.0/bits/stl_vector.h:99:4: optimized: basic block part vectorized using 16 byte vectors
+C:/opencv-build/install/include/opencv2/core/types.hpp:1693:7: optimized: basic block part vectorized using 8 byte vectors
+C:/msys64/mingw64/include/c++/14.2.0/bits/stl_vector.h:99:4: optimized: basic block part vectorized using 16 byte vectors
+C:/opencv-build/install/include/opencv2/core/types.hpp:1693:7: optimized: basic block part vectorized using 8 byte vectors
+C:/msys64/mingw64/include/c++/14.2.0/bits/stl_vector.h:99:4: optimized: basic block part vectorized using 16 byte vectors
+C:/Users/giost/CLionProjects/Elaborato_1_Giovanni_Stefanini/main.cpp:162:1: optimized: basic block part vectorized using 16 byte vectors
+C:/Users/giost/CLionProjects/Elaborato_1_Giovanni_Stefanini/main.cpp:162:1: optimized: basic block part vectorized using 16 byte vectors

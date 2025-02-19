@@ -12,10 +12,10 @@ namespace fs = std::filesystem;
 
 int main() {
     // Imposta i parametri per Mean Shift
-    float bandwidth = 32.0f; // Ampiezza della finestra di ricerca
+    float bandwidth = 32.0f; // Ampiezza della finestra di ricerca 32.0f è il migliore (8 non clusterizza (troppi colori), 128 clusterizza troppo (1 solo colore))
     float epsilon = 1.0f;    // Tolleranza per la convergenza
 
-    int resize_factor = 4; // indica di che fattore scaleremo le immagini. 1:512x512, 2: 256x256, 4:128x128, 8:64x64 //ottimale è 4
+    int resize_factor = 4; // Indica di che fattore scaleremo le immagini. 1:512x512, 2: 256x256, 4:128x128, 8:64x64 //ottimale è 4
     std::string imageDirectory = "./img"; // Specifica la directory delle immagini
     std::string outputDirectory = "./img_results"; // Directory per le immagini segmentate
 
@@ -92,7 +92,7 @@ int main() {
     cv::Mat resizedImage;
     cv::resize(image, resizedImage, cv::Size(image.cols / resize_factor, image.rows / resize_factor)); // Riduce l'immagine 512x512:Z dove Z è il fattore di ridimensionamento
 
-     // Chiedi all'utente quale versione di MeanShift utilizzare
+    // Chiedi all'utente quale versione di MeanShift utilizzare
     int methodChoice = 0;
     do {
         std::cout << "Scegli la versione di MeanShift:\n";
